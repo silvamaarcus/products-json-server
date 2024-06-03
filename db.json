@@ -2,42 +2,42 @@
   "shoes": [
     {
       "id": "1",
-      "img": "/src/img/jordan-1.png",
+      "img": "https://github.com/silvamaarcus/jordan-shoes/assets/75142775/acf13c57-a473-4822-898f-34c053ccdffe",
       "title": "Air Jordan 1 Mid Dutch Green",
       "subtitle": "Tênis Air Jordan",
       "price": 1199.99
     },
     {
       "id": "2",
-      "img": "/src/img/jordan-2.png",
+      "img": "https://github.com/silvamaarcus/jordan-shoes/assets/75142775/e0e01b02-1fcc-476b-be8a-8920fe213c63",
       "title": "Air Jordan 1 High CMFT Tropical Twist",
       "subtitle": "Tênis Air Jordan",
       "price": 1049
     },
     {
       "id": "3",
-      "img": "/src/img/jordan-3.png",
+      "img": "https://github.com/silvamaarcus/jordan-shoes/assets/75142775/f0c804ce-1dea-4f55-affa-a47b2ea65b91",
       "title": "Air Jordan 1 High Purple/White",
       "subtitle": "Tênis Air Jordan",
       "price": 1350
     },
     {
       "id": "4",
-      "img": "/src/img/jordan-4.png",
+      "img": "https://github.com/silvamaarcus/jordan-shoes/assets/75142775/db8395c5-278f-4f79-b743-30ee0fb85553",
       "title": "Air Jordan 1 Mid GS 'Light Smoke Grey'",
       "subtitle": "Tênis Air Jordan",
       "price": 1585
     },
     {
       "id": "5",
-      "img": "/src/img/jordan-5.png",
+      "img": "https://github.com/silvamaarcus/jordan-shoes/assets/75142775/588baa99-6a87-433c-bf80-e08ab37cf4b9",
       "title": "Air Jordan 1 Mid SE Bright Citrus",
       "subtitle": "Tênis Air Jordan",
       "price": 949.99
     },
     {
       "id": "6",
-      "img": "/src/img/jordan-6.png",
+      "img": "https://github.com/silvamaarcus/jordan-shoes/assets/75142775/2c4e0338-048f-4b2e-804f-61528d08f2cf",
       "title": "Air Jordan 1 Mid Grey Camo",
       "subtitle": "Tênis Air Jordan",
       "price": 999.99
